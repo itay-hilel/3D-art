@@ -1,7 +1,21 @@
 # My 3D-Art
-This is a collection of all my notable 3D works I did with Blender so far.
+This is a collection of all my notable 3D works I did with Blender,unity and substance painter so far.
+
+[animation in AR](https://github.com/itay-hilel/3D-art/raw/main/3d-art/Credit_View.mp4) <- right-click and "save as .."
+
+[avtar animation in AR](https://github.com/itay-hilel/3D-art/raw/main/3d-art/20220227_142938%20-%20Trim.mp4) <- right-click and "save as .."
 
 [First off a link to an animation of water flowing through an invisible structure](https://raw.githubusercontent.com/VectorWolf/my-art-portfolio/master/3d-art/flowing%20water.mp4) <- right-click and "save as .."
+
+An augmented reality credit card dashboard
+
+![Flow](image.png)
+![credit card](Expenses.jpeg)
+![credit card 2](Balance.jpeg)
+
+Playing a video in AR
+
+![credit card 3](https://github.com/itay-hilel/3D-art/blob/31b547fe22ebabb6f83cf80cf2421401b3bbbf90/3d-art/image%20box.png)
 
 My attempt at a photorealistic render of a speaker I own..
 ![speaker](speakers.png)
